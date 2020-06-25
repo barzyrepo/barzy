@@ -1,2 +1,1 @@
 # barzy
-cydia
